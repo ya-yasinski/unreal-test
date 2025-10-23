@@ -13,5 +13,6 @@ UCLASS()
 class TEST_API ACSharpMasterGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+public:
+	ACSharpMasterGameMode();
 };
